@@ -1,2 +1,2 @@
 # de-rewarding-system
-A two-token rewarding system to reward users' contribution and factor economic biases out of tokenomics
+This repository contains the source code for the project "Factoring economic biases out of tokenomics", developed under the supervision of Padua university.
